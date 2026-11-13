@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Node.js / Gateway exclusions
+node_modules/
+npm-debug.log*
+
+.env
+node_modules/
